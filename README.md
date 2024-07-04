@@ -1,2 +1,3 @@
 # Matrix Multiplication
- This is a C program for Arrays.
+Matrix Multiplication: Develop a program that multiplies two matrices. Ensure the matrices are compatible for multiplication.
+
